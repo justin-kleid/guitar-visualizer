@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sounddevice
+numpy
+aubio
+websockets
